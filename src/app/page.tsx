@@ -13,7 +13,7 @@ import FeatureArea from "@/components/feature/feature-area";
 import Footer from "@/layouts/footer/footer";
 
 export const metadata: Metadata = {
-  title: "Orfarm - Multipurpose eCommerce Next js Template"
+  title: "Nourist Nest – Shop Better. Live Better."
 };
 
 export default function HomePage() {

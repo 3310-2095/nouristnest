@@ -7,7 +7,7 @@ import BlogSlider from "@/components/blogs/blog-slider";
 import BlogItemsFour from "@/components/blogs/blog-items-4";
 
 export const metadata: Metadata = {
-  title: "Blog Right Sidebar - Orfarm",
+  title: "Blog Right Sidebar - NOURIST NEST",
 };
 
 export default function BlogRightSidebarPage() {

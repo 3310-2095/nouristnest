@@ -7,7 +7,7 @@ import BreadcrumbArea from "@/components/breadcrumb/breadcrumb-area";
 import LocationArea from "@/components/location/location-area";
 
 export const metadata: Metadata = {
-  title: "Shop Location - Orfarm",
+  title: "Shop Location - NOURIST NEST",
 };
 
 export default function ShopLocationPage() {

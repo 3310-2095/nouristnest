@@ -11,7 +11,7 @@ import FeatureArea from "@/components/feature/feature-area";
 import Footer from "@/layouts/footer/footer";
 
 export const metadata: Metadata = {
-  title: "Home Two - Orfarm",
+  title: "Home Two - NOURIST NEST",
 };
 
 export default function HomePageTwo() {

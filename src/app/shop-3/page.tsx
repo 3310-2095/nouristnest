@@ -7,7 +7,7 @@ import ShopArea from "@/components/shop/shop-area";
 import Footer from "@/layouts/footer/footer";
 
 export const metadata: Metadata = {
-  title: "Shop 3 - Orfarm",
+  title: "Shop 3 - NOURIST NEST",
 };
 
 export default function ShopPageThree() {

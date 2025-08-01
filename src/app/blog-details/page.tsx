@@ -8,7 +8,7 @@ import BlogDetailsArea from "@/components/blogs/details/blog-details-area";
 import blog_data from "@/data/blog-data";
 
 export const metadata: Metadata = {
-  title: "Blog Details - Orfarm",
+  title: "Blog Details - NOURIST NEST",
 };
 
 export default function BlogDetailsPage() {

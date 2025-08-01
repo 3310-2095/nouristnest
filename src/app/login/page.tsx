@@ -7,7 +7,7 @@ import Footer from "@/layouts/footer/footer";
 import LoginArea from "@/components/login/login-area";
 
 export const metadata: Metadata = {
-  title: "Login - Orfarm",
+  title: "Login - NOURIST NEST",
 };
 
 export default function LoginPage() {

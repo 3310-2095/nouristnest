@@ -13,7 +13,7 @@ import Footer from "@/layouts/footer/footer";
 
 
 export const metadata: Metadata = {
-  title: "Home Three - Orfarm",
+  title: "Home Three - NOURIST NEST",
 };
 
 export default function HomePageFive() {

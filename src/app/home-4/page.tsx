@@ -13,7 +13,7 @@ import SubscribeArea from "@/components/subscribe/subscribe-area";
 import FooterTwo from "@/layouts/footer/footer-2";
 
 export const metadata: Metadata = {
-  title: "Home Four - Orfarm",
+  title: "Home Four - NOURIST NEST",
 };
 
 export default function HomePageThree() {

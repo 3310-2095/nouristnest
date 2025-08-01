@@ -7,7 +7,7 @@ import SearchArea from "@/components/search/search-area";
 import Footer from "@/layouts/footer/footer";
 
 export const metadata: Metadata = {
-  title: "Search - Orfarm",
+  title: "Search - NOURIST NEST",
 };
 
 export default function SearchPage() {

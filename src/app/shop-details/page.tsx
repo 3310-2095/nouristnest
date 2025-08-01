@@ -9,7 +9,7 @@ import ShopDetailsArea from "@/components/shop-details/shop-details-area";
 import RelatedProducts from "@/components/product/related-products";
 
 export const metadata: Metadata = {
-  title: "Shop Details - Orfarm",
+  title: "Shop Details - NOURIST NEST",
 };
 
 export default function ShopDetailsPage() {
