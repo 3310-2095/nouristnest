@@ -46,7 +46,7 @@ export default function ComingSoonPage() {
                            <a className="rainbow__youtube" href="#"><i className="fab fa-youtube"></i></a>
                         </div>
                         <div className="tpsoon__copyright">
-                           <span>Copyright <Link href="/">© NOURIST NEST</Link> all rights reserved. Powered by <a href="#">Theme_pure</a>.</span>
+                           <span>Copyright <Link href="/">© NOURIST NEST</Link> all rights reserved. Powered by <a href="#">Nourist Nest</a>.</span>
                         </div>
                      </div>
                   </div>

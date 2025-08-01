@@ -24,7 +24,7 @@ const Footer = ({style_2=false}:IProps) => {
                       <div className="tpfooter__widget-social mt-45">
                          <span className="tpfooter__widget-social-title mb-5">Social Media:</span>
                          {social_links.map((s, i) => (
-                              <a href={s.link} target="_blank" key={i}>
+                              <a  target="_blank" key={i}>
                                  <i className={s.icon}></i>
                               </a>
                            ))}
@@ -89,7 +89,7 @@ const Footer = ({style_2=false}:IProps) => {
              <div className="row">
                 <div className="col-lg-6 col-md-7 col-sm-12">
                    <div className="tpfooter__copyright">
-                      <span className="tpfooter__copyright-text">Copyright © <a href="#">NOURIST NEST</a> all rights reserved. Powered by <a href="#">ThemePure</a>.</span>
+                      <span className="tpfooter__copyright-text">Copyright © <a href="#">NOURIST NEST</a> all rights reserved. Powered by <a href="#">Nourist Nest</a>.</span>
                    </div>
                 </div>
                 <div className="col-lg-6 col-md-5 col-sm-12">
